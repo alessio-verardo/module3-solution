@@ -1,0 +1,8 @@
+.nav-item:hover{
+    background-color: #ddd;
+}
+@media (min-width: 720px){
+    .navbar-brand{
+        margin-left: 10%;
+    }
+}
